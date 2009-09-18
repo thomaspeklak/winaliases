@@ -1,0 +1,23 @@
+This is a compliation of shortcuts for commonly used commands under windows.
+
+ap       handle apache2.2 takes agruments start (sta), stop (sto) and restart (re)
+my       handle mysql takes agruments start (sta), stop (sto) and restart (re)
+ga       git add
+gai      git add -i
+gc       git commit
+gca      git commit -a
+gitka    gitk --all
+gl       git pull
+gp       git push
+grm      remove delete files from git repository
+gs       git status
+gsb      git show-branch
+gsba     git show-branch --all
+sc       ruby script/console
+sg       ruby script/generate
+ss       ruby script/server
+tlog     tail -f log/development.log
+up       cd ..
+up2      cd ../..
+
+To install put this batch files in any directory and add it to your path variable.
