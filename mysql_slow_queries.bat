@@ -1,0 +1,1 @@
+tail -f "D:/xampp/logs/mysql_slow_queries.log"
